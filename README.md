@@ -26,5 +26,4 @@ def hola_mundo():
 
 <p align="center">
 <img src="./logos/imagen.jpeg" height="100">
-</p> ![imagen](https://github.com/aifosarias/clase-2-programacion/assets/167647417/b9457f7b-60f6-4855-9060-f4604e113cb3)
-
+</p>
