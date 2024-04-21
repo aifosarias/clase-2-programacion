@@ -23,3 +23,7 @@ def hola_mundo():
 |--------------|--------------|--------------|
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
+
+<p align="center">
+<img src="./logos/imagen.jpeg" height="100">
+</p>
